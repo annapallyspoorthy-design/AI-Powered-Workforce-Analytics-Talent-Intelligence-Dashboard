@@ -1,4 +1,4 @@
-# 🧠 AI-Powered Workforce Analytics & Talent Intelligence Dashboard
+# 🧠 Creation-of-Workforce-Insights-Dashboard-for-Employee-Skill-and-Analytics
 
 **Team:** Team A — Infosys
 **Mentor:** Vivek Gautam
