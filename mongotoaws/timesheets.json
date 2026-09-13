@@ -1,0 +1,6002 @@
+[
+    {
+        "employee_id": "EMP00441",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.2,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00574",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.4,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00947",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.5,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00998",
+        "timesheet_hours": 8.6,
+        "project_hours": 8.0,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00504",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.1,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00606",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.6,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01717",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.8,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01164",
+        "timesheet_hours": 6.6,
+        "project_hours": 7.3,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01787",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.0,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00847",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.9,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00004",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.1,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01287",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.3,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01223",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.1,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00468",
+        "timesheet_hours": 6.6,
+        "project_hours": 7.3,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00322",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.4,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00006",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.4,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00223",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.6,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01375",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.1,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00548",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.3,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00229",
+        "timesheet_hours": 7.9,
+        "project_hours": 7.7,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00040",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.9,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00543",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.2,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00243",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.3,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00899",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.8,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01134",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.4,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01449",
+        "timesheet_hours": 6.1,
+        "project_hours": 5.2,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01869",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.1,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00843",
+        "timesheet_hours": 9.0,
+        "project_hours": 6.7,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01419",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.3,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01654",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.4,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01970",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.7,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP00662",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.5,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01211",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.7,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00315",
+        "timesheet_hours": 7.7,
+        "project_hours": 8.0,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00692",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.0,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01504",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.4,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP00425",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.7,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00595",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.7,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01964",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.8,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00623",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.7,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01171",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.4,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01044",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.6,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00228",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.9,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01118",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.0,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01332",
+        "timesheet_hours": 7.9,
+        "project_hours": 5.4,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01316",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.2,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00067",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.7,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00025",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.4,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00145",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.6,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00537",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.6,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00812",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.3,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01467",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.2,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00086",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.8,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01661",
+        "timesheet_hours": 7.7,
+        "project_hours": 6.8,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01646",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.0,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01805",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.6,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP01818",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.7,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01577",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.6,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01145",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.7,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00363",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.4,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP01612",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.1,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01866",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.5,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01027",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.0,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01031",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.1,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01304",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.1,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01356",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.6,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01731",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.0,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00666",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.9,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00365",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.9,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00078",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.7,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00028",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.2,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01437",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.3,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00526",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.3,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01835",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.2,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00056",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.3,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00639",
+        "timesheet_hours": 7.9,
+        "project_hours": 5.5,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00303",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.1,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00719",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.2,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00625",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.9,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00008",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.3,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00804",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.1,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP01050",
+        "timesheet_hours": 8.7,
+        "project_hours": 7.9,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00337",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.1,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00048",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.4,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01764",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.6,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00107",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.5,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00350",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.2,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01080",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.6,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00239",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.1,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00214",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.2,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01776",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.4,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01139",
+        "timesheet_hours": 7.9,
+        "project_hours": 7.1,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00794",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.2,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01587",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.0,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01583",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.3,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01672",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.4,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00524",
+        "timesheet_hours": 8.0,
+        "project_hours": 6.7,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00233",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.9,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00645",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.1,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01508",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.7,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00534",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.4,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01942",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.8,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00604",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.3,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01330",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.1,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01075",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.7,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01305",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.9,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00061",
+        "timesheet_hours": 6.0,
+        "project_hours": 6.0,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01264",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.0,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00093",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.3,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00667",
+        "timesheet_hours": 6.2,
+        "project_hours": 6.6,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00281",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.8,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01114",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.5,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00360",
+        "timesheet_hours": 6.2,
+        "project_hours": 6.1,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01129",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.1,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01170",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.1,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00848",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01522",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.5,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00111",
+        "timesheet_hours": 6.7,
+        "project_hours": 7.1,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP00043",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.6,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00126",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.8,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP00205",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.7,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00053",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.7,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00546",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.2,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00069",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.5,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01741",
+        "timesheet_hours": 7.0,
+        "project_hours": 6.2,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01548",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.7,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00184",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.3,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00138",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.0,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00900",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.4,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00797",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.8,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP00133",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.9,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00081",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.2,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01987",
+        "timesheet_hours": 9.0,
+        "project_hours": 6.3,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP01541",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.2,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00542",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.6,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01669",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.0,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00984",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.5,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00166",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.0,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00249",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.7,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00447",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01515",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.6,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00859",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.8,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01212",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.1,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00098",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.4,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01974",
+        "timesheet_hours": 8.0,
+        "project_hours": 7.2,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00738",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.2,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01256",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.0,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00103",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.8,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00435",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.7,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00075",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01792",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.2,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01235",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.1,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00919",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.7,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01712",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.5,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP01671",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.4,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01621",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.6,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00763",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.6,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00990",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.2,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00389",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.1,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00236",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.6,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01507",
+        "timesheet_hours": 7.7,
+        "project_hours": 8.0,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00268",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.6,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01188",
+        "timesheet_hours": 9.0,
+        "project_hours": 6.9,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP00118",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.0,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01607",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.2,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00674",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.3,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00250",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.1,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01453",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.7,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01995",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.9,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP00095",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.3,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP00034",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.0,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01464",
+        "timesheet_hours": 8.9,
+        "project_hours": 8.0,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01668",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.6,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00449",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.3,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00717",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.8,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01810",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.2,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01518",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.5,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00001",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.6,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01376",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01102",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.3,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01109",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.4,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01227",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.8,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00083",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.2,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01289",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.1,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00677",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.2,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP01921",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.4,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01047",
+        "timesheet_hours": 7.7,
+        "project_hours": 6.8,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00771",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.6,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01947",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.4,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01281",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.8,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01581",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.8,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01489",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.7,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00405",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.0,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01728",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.8,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01299",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.5,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01341",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.4,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00105",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.2,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00689",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.6,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01306",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.8,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00827",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.3,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00063",
+        "timesheet_hours": 7.7,
+        "project_hours": 6.3,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP00853",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.1,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01354",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.0,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00224",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.7,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP00146",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.1,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01089",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.4,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00374",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.8,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01421",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.6,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01143",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.5,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP01827",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.7,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01495",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.9,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP01602",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.4,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01271",
+        "timesheet_hours": 8.1,
+        "project_hours": 5.8,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00010",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.1,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00450",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00709",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.9,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00256",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.8,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP00883",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.9,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00390",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00909",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.5,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00925",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.0,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01704",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.9,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01233",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.8,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP00461",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.1,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01270",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.3,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01760",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.5,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01169",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.5,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00959",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.7,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00502",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.1,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP00740",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.4,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01850",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.5,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00869",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.8,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00732",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.4,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00540",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.6,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01202",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.3,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00698",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.6,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01393",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.2,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01377",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.0,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP01146",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.2,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01032",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.8,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP00373",
+        "timesheet_hours": 6.6,
+        "project_hours": 7.7,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00668",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.1,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01526",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.3,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00358",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.6,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00968",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.2,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP00784",
+        "timesheet_hours": 7.0,
+        "project_hours": 6.4,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00736",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.2,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01036",
+        "timesheet_hours": 6.7,
+        "project_hours": 7.3,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00971",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.2,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01525",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.2,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01487",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01524",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.4,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01491",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.5,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01643",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.5,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01253",
+        "timesheet_hours": 7.2,
+        "project_hours": 8.0,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01694",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.1,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01750",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.4,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01237",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.3,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00886",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.4,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00080",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.1,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01173",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.1,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00815",
+        "timesheet_hours": 8.7,
+        "project_hours": 7.1,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP01286",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.6,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP00672",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.0,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01532",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.3,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00058",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.2,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00134",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.5,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01141",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.8,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00934",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.7,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01685",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.6,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00824",
+        "timesheet_hours": 7.9,
+        "project_hours": 5.2,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01215",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.8,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00505",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.9,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01775",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.0,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00348",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.1,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00387",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.9,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01025",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.6,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00895",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.7,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP00829",
+        "timesheet_hours": 6.5,
+        "project_hours": 5.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01893",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.0,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00476",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.3,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01471",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.7,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01448",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.5,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01582",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.1,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00653",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.4,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00173",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.6,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01150",
+        "timesheet_hours": 8.5,
+        "project_hours": 7.4,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00039",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.5,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00714",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.1,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00091",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.0,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01937",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.3,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01206",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.3,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00876",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.8,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01352",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.9,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01890",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.7,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01094",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.6,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01156",
+        "timesheet_hours": 7.9,
+        "project_hours": 5.9,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP01782",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.9,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP01959",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.2,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00500",
+        "timesheet_hours": 7.2,
+        "project_hours": 4.8,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00339",
+        "timesheet_hours": 6.9,
+        "project_hours": 8.0,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01189",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.5,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00029",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.3,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01218",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.4,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01400",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.8,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP01821",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.4,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00946",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.1,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00170",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.8,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01405",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.9,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01198",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.3,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01254",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.8,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01614",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.6,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00913",
+        "timesheet_hours": 9.0,
+        "project_hours": 4.7,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00492",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.7,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00954",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.7,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01098",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.3,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01033",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.1,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP00588",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.5,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00751",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.5,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00658",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.6,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00235",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.2,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00733",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.0,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01989",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.3,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01633",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.8,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01157",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.4,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01470",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.4,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01425",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.7,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01628",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.2,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00935",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.9,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01210",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.0,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01066",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.0,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00109",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.6,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01543",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.6,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00569",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.7,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01168",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.5,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01175",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.3,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00891",
+        "timesheet_hours": 8.7,
+        "project_hours": 7.9,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00948",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.6,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01049",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.8,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01353",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.1,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01778",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.9,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01447",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.5,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00885",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.0,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01673",
+        "timesheet_hours": 7.2,
+        "project_hours": 4.8,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00851",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.9,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00735",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.9,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00718",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.2,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00455",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.7,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00265",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.6,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00076",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.1,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01658",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.9,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP00445",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.1,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00396",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.4,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00177",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.4,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01043",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.9,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01736",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.9,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01402",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.7,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01381",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.3,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00596",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.8,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00062",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.3,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01297",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.5,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00873",
+        "timesheet_hours": 8.4,
+        "project_hours": 5.1,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01490",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.4,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01879",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.2,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP00279",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.2,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00037",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.5,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01976",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.0,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00663",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.5,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP01954",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.2,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01445",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.1,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00978",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.7,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01572",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.0,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00739",
+        "timesheet_hours": 6.0,
+        "project_hours": 6.2,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00192",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.9,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00920",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.9,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00457",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.3,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00676",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.5,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP00761",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.9,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01808",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.4,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01603",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.1,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00729",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.6,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00413",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.6,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01099",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.6,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00826",
+        "timesheet_hours": 7.6,
+        "project_hours": 4.2,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01640",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.0,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00617",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.4,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00115",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.9,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00418",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.1,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01911",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.1,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00970",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.7,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00605",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.6,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01919",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.7,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00090",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.5,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00849",
+        "timesheet_hours": 7.2,
+        "project_hours": 4.1,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01520",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.0,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01918",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.5,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00754",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.1,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00499",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.1,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01277",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.9,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01326",
+        "timesheet_hours": 6.1,
+        "project_hours": 5.5,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00012",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.8,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00397",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.4,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00285",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.7,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01067",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.6,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01192",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.3,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01745",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.9,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00691",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.0,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01753",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.8,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01876",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.0,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00690",
+        "timesheet_hours": 8.7,
+        "project_hours": 7.9,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00852",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.8,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00160",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.5,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00896",
+        "timesheet_hours": 7.9,
+        "project_hours": 7.2,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01576",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.2,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00258",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.4,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP00336",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.3,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01880",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.5,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01040",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.0,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00516",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.5,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01349",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.2,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01016",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.4,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00769",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.5,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01747",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.9,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP00762",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.4,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01247",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.0,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01204",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.7,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01468",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.7,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01984",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.1,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00522",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.1,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00023",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.0,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00357",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.8,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01278",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.2,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01313",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.6,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01683",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.0,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00341",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.6,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00432",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.1,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP00474",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.6,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00218",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.9,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00912",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.8,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01228",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.9,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01597",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.3,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01012",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.4,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01950",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.2,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP00094",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.7,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01009",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.1,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01071",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.4,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01093",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.9,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01915",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.5,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01309",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.1,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00697",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.7,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01828",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.3,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00997",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.0,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00154",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.0,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01100",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.1,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01719",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.5,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01998",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.4,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00790",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.7,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00581",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.0,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP00704",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.9,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01213",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.7,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01296",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.2,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01666",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.7,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01261",
+        "timesheet_hours": 9.0,
+        "project_hours": 4.7,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00488",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.0,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00560",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.6,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01142",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.3,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01120",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.1,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00802",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.3,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00513",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.1,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00634",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.7,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP01922",
+        "timesheet_hours": 8.1,
+        "project_hours": 5.0,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01788",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.7,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01546",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.6,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01151",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.1,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00791",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.4,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP00117",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.8,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00741",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.6,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01691",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.3,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01082",
+        "timesheet_hours": 8.4,
+        "project_hours": 5.2,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00831",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.6,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP00120",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.9,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00657",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.0,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01908",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.2,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00636",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.6,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00370",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.3,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00269",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.9,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00656",
+        "timesheet_hours": 8.4,
+        "project_hours": 7.7,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00936",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.1,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00823",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.7,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00867",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.9,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00047",
+        "timesheet_hours": 7.0,
+        "project_hours": 8.0,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01374",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.8,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01709",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.8,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00992",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.0,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP00877",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.5,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00774",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.9,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01220",
+        "timesheet_hours": 6.1,
+        "project_hours": 5.6,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP02000",
+        "timesheet_hours": 6.5,
+        "project_hours": 5.3,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00005",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.2,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01004",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01724",
+        "timesheet_hours": 6.0,
+        "project_hours": 6.7,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00264",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.7,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01570",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.6,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01831",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.9,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00444",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.8,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01003",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.2,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01078",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.2,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00838",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01791",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.1,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00305",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.8,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP01366",
+        "timesheet_hours": 6.0,
+        "project_hours": 6.0,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01558",
+        "timesheet_hours": 8.0,
+        "project_hours": 6.2,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00314",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.9,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00150",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.2,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01149",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.4,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01214",
+        "timesheet_hours": 8.8,
+        "project_hours": 8.0,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00575",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.1,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00051",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.2,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01553",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.0,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00727",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.9,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00834",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.1,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01378",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.7,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP01116",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.7,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01167",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.6,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00471",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.5,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00972",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.4,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00654",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.7,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00400",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.9,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00512",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.9,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00321",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.6,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00020",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.0,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00685",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.9,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP00036",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.2,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00903",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01779",
+        "timesheet_hours": 8.7,
+        "project_hours": 7.3,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00828",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.6,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01854",
+        "timesheet_hours": 6.3,
+        "project_hours": 8.0,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00408",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00921",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.2,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP00538",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.2,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00759",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.8,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01905",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.8,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01063",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.4,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01200",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.0,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00246",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.4,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP01417",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.5,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01128",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.3,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00785",
+        "timesheet_hours": 9.0,
+        "project_hours": 4.9,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01743",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.3,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00490",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.0,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP00155",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.4,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00962",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.7,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP00854",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.9,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01312",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.1,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00626",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.7,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00686",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.8,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01562",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.0,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00570",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.5,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01909",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.5,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00018",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.3,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00128",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.8,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01347",
+        "timesheet_hours": 6.7,
+        "project_hours": 4.9,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01280",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.6,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01969",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.3,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00928",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.9,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00981",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.2,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01965",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.5,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00191",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.0,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01140",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.4,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00993",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.9,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01956",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.9,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01657",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.2,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00607",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.8,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00181",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.3,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00302",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.7,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00497",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.9,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01721",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.0,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01710",
+        "timesheet_hours": 6.0,
+        "project_hours": 6.7,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01888",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.9,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP01992",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.9,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00518",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.2,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01985",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.3,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01070",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.4,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00477",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.1,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00158",
+        "timesheet_hours": 9.0,
+        "project_hours": 6.6,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01244",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.7,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01196",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.6,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00017",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.3,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01536",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.9,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01073",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.6,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01972",
+        "timesheet_hours": 7.6,
+        "project_hours": 4.1,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP00547",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.5,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01540",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.2,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00659",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.6,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01626",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.7,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01020",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.7,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01663",
+        "timesheet_hours": 8.1,
+        "project_hours": 5.1,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01505",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.2,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00960",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.5,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01882",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.9,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00284",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.3,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00798",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.3,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP01627",
+        "timesheet_hours": 8.0,
+        "project_hours": 5.3,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP00226",
+        "timesheet_hours": 7.0,
+        "project_hours": 5.0,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00027",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.2,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01771",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.2,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00438",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.9,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP01949",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.7,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01389",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.6,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00230",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.5,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP00038",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.4,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00750",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.3,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP01046",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.1,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01399",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.1,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00470",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.2,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01693",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.4,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01968",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.8,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00688",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.4,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01844",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.7,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00640",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.5,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01713",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.5,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01219",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.6,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01159",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.5,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01416",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.0,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01528",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.8,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01656",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.4,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01301",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.5,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01823",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.6,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00801",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.9,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01604",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.0,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00161",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.6,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00957",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.8,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01187",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.3,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00822",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.7,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP01682",
+        "timesheet_hours": 7.4,
+        "project_hours": 8.0,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00878",
+        "timesheet_hours": 7.0,
+        "project_hours": 6.4,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00914",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.5,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00153",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.7,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01871",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.6,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP01777",
+        "timesheet_hours": 8.0,
+        "project_hours": 7.5,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00510",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.3,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01136",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.7,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01251",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.9,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01684",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.5,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00104",
+        "timesheet_hours": 6.6,
+        "project_hours": 7.0,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP01446",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.4,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01444",
+        "timesheet_hours": 9.0,
+        "project_hours": 6.2,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00587",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.7,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01769",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.5,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01144",
+        "timesheet_hours": 6.5,
+        "project_hours": 5.0,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00054",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.6,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00152",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.1,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP00404",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.1,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01943",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.9,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00208",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.3,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01895",
+        "timesheet_hours": 8.8,
+        "project_hours": 6.6,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01123",
+        "timesheet_hours": 6.1,
+        "project_hours": 5.8,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01891",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.3,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00009",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.7,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01015",
+        "timesheet_hours": 6.0,
+        "project_hours": 7.8,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP01907",
+        "timesheet_hours": 6.5,
+        "project_hours": 7.2,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01061",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.9,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00453",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.2,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00254",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.7,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01328",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.2,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00897",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.2,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01734",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.7,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00881",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.8,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP01596",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.6,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01889",
+        "timesheet_hours": 6.7,
+        "project_hours": 4.5,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP00624",
+        "timesheet_hours": 6.1,
+        "project_hours": 6.8,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00346",
+        "timesheet_hours": 8.9,
+        "project_hours": 7.5,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01703",
+        "timesheet_hours": 7.1,
+        "project_hours": 7.3,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00263",
+        "timesheet_hours": 6.5,
+        "project_hours": 5.4,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01635",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.9,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01322",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.8,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01439",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.6,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00151",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.4,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00473",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.5,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP00641",
+        "timesheet_hours": 8.3,
+        "project_hours": 6.6,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01983",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.1,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP01883",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.7,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP00551",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.5,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01780",
+        "timesheet_hours": 6.9,
+        "project_hours": 5.9,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00929",
+        "timesheet_hours": 7.9,
+        "project_hours": 7.2,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00489",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.9,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01812",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.8,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01172",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.2,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00147",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.1,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01705",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.1,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01929",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.4,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP00403",
+        "timesheet_hours": 6.9,
+        "project_hours": 7.3,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00955",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.8,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01878",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.4,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00660",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.4,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01373",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.2,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00464",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.4,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01350",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.1,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00187",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.0,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01148",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.6,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01225",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.6,
+        "billable_hours": 8.0
+    },
+    {
+        "employee_id": "EMP00609",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.1,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00144",
+        "timesheet_hours": 8.1,
+        "project_hours": 5.0,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00752",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.2,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01535",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.5,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00982",
+        "timesheet_hours": 8.2,
+        "project_hours": 8.0,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP00198",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.8,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01634",
+        "timesheet_hours": 6.7,
+        "project_hours": 4.6,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00884",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.1,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00280",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.0,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00294",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.5,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01824",
+        "timesheet_hours": 8.9,
+        "project_hours": 5.3,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00401",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.4,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00123",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.5,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01208",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.1,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00203",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.3,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01463",
+        "timesheet_hours": 8.0,
+        "project_hours": 7.2,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00836",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.4,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00247",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.8,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01440",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.2,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01754",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01902",
+        "timesheet_hours": 7.9,
+        "project_hours": 7.2,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01708",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.9,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01881",
+        "timesheet_hours": 8.5,
+        "project_hours": 7.8,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP01154",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.3,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01662",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.4,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01427",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.2,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP00385",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.2,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01759",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.7,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00855",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.5,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01590",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.0,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00220",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00642",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.3,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00002",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.1,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00113",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.9,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00699",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.9,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01916",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.7,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP00952",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.9,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01649",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.3,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01637",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.2,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01886",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.5,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01411",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.2,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01410",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.2,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01534",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.1,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01292",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.7,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01809",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.4,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00442",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.2,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01521",
+        "timesheet_hours": 6.2,
+        "project_hours": 6.1,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01137",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.1,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01716",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.0,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP01257",
+        "timesheet_hours": 7.5,
+        "project_hours": 5.6,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01864",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.5,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01632",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.1,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01696",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.4,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01398",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.6,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00664",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.3,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP01836",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.1,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01258",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.4,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01774",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.7,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01701",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.1,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00318",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.4,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00649",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.9,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01435",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.5,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01480",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.0,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00710",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.0,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01383",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.1,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01283",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.6,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00973",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.8,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP00628",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.3,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00633",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.2,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01307",
+        "timesheet_hours": 6.3,
+        "project_hours": 7.3,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01401",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.8,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01409",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.6,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP01249",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.2,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01953",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.0,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01255",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.4,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01497",
+        "timesheet_hours": 7.7,
+        "project_hours": 7.3,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP01372",
+        "timesheet_hours": 7.6,
+        "project_hours": 6.6,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01530",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.8,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01664",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.5,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01355",
+        "timesheet_hours": 7.4,
+        "project_hours": 6.9,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01926",
+        "timesheet_hours": 6.7,
+        "project_hours": 6.5,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01901",
+        "timesheet_hours": 6.5,
+        "project_hours": 7.4,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01644",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.7,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01849",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.6,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP00796",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.0,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00646",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.7,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01013",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.8,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01840",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.7,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00557",
+        "timesheet_hours": 7.9,
+        "project_hours": 6.3,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00682",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.1,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00578",
+        "timesheet_hours": 8.5,
+        "project_hours": 5.6,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01110",
+        "timesheet_hours": 8.0,
+        "project_hours": 6.6,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01267",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.2,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP01723",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.1,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP01184",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.3,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00525",
+        "timesheet_hours": 8.7,
+        "project_hours": 5.6,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01060",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.8,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP00541",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.9,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01195",
+        "timesheet_hours": 6.8,
+        "project_hours": 7.3,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP01679",
+        "timesheet_hours": 8.5,
+        "project_hours": 4.5,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00749",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.4,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01852",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.9,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP01431",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.4,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00485",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.3,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP01758",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.6,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00096",
+        "timesheet_hours": 7.8,
+        "project_hours": 4.7,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP01021",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.2,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00564",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.4,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01265",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.7,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00743",
+        "timesheet_hours": 8.0,
+        "project_hours": 6.0,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00864",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.4,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01599",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.3,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01715",
+        "timesheet_hours": 7.7,
+        "project_hours": 4.2,
+        "billable_hours": 2.2
+    },
+    {
+        "employee_id": "EMP01485",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.2,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00892",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.9,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01578",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.6,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP01039",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.3,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP00207",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.5,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00393",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.1,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00795",
+        "timesheet_hours": 6.0,
+        "project_hours": 5.8,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00871",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.9,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP00398",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.2,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00767",
+        "timesheet_hours": 6.1,
+        "project_hours": 4.8,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01842",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.7,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01242",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.4,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP01029",
+        "timesheet_hours": 7.3,
+        "project_hours": 6.5,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01793",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.0,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00643",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.3,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01892",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.0,
+        "billable_hours": 6.4
+    },
+    {
+        "employee_id": "EMP00613",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.2,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01763",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.1,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00961",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.3,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP01571",
+        "timesheet_hours": 8.0,
+        "project_hours": 7.1,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP00726",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.2,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00684",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.7,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00099",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.8,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00805",
+        "timesheet_hours": 6.3,
+        "project_hours": 5.0,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01752",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.5,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01598",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.0,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00407",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.8,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00503",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.8,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01072",
+        "timesheet_hours": 8.5,
+        "project_hours": 6.7,
+        "billable_hours": 2.0
+    },
+    {
+        "employee_id": "EMP01057",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.6,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00930",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.1,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00780",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.2,
+        "billable_hours": 6.7
+    },
+    {
+        "employee_id": "EMP00201",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.3,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP00135",
+        "timesheet_hours": 6.2,
+        "project_hours": 7.8,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01052",
+        "timesheet_hours": 6.2,
+        "project_hours": 5.6,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP00041",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.1,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01018",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.9,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00231",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.0,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP01514",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.2,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01797",
+        "timesheet_hours": 7.9,
+        "project_hours": 4.1,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP00379",
+        "timesheet_hours": 7.4,
+        "project_hours": 7.5,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP00289",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.4,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00419",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.2,
+        "billable_hours": 2.4
+    },
+    {
+        "employee_id": "EMP01699",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.7,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00392",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.8,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00593",
+        "timesheet_hours": 7.4,
+        "project_hours": 5.6,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01523",
+        "timesheet_hours": 7.3,
+        "project_hours": 7.2,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01163",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.8,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP01087",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.8,
+        "billable_hours": 5.6
+    },
+    {
+        "employee_id": "EMP01496",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.6,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP00648",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.3,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP01153",
+        "timesheet_hours": 7.7,
+        "project_hours": 5.8,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01368",
+        "timesheet_hours": 8.5,
+        "project_hours": 7.8,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00521",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.8,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01863",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.1,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00065",
+        "timesheet_hours": 6.8,
+        "project_hours": 5.1,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01837",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.6,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00015",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.8,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01181",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.8,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP01065",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.7,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00493",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.7,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00380",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.3,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00188",
+        "timesheet_hours": 8.9,
+        "project_hours": 6.4,
+        "billable_hours": 6.5
+    },
+    {
+        "employee_id": "EMP00764",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.5,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00217",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.0,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00792",
+        "timesheet_hours": 7.8,
+        "project_hours": 7.8,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01077",
+        "timesheet_hours": 8.9,
+        "project_hours": 4.4,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00879",
+        "timesheet_hours": 8.4,
+        "project_hours": 5.0,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP00338",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.8,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP01773",
+        "timesheet_hours": 8.8,
+        "project_hours": 4.8,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00720",
+        "timesheet_hours": 8.1,
+        "project_hours": 6.0,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01749",
+        "timesheet_hours": 8.4,
+        "project_hours": 5.8,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00296",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.4,
+        "billable_hours": 6.0
+    },
+    {
+        "employee_id": "EMP01726",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.8,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP01017",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.0,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01276",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.2,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01751",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.0,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP01486",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.5,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP00456",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.7,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01997",
+        "timesheet_hours": 7.5,
+        "project_hours": 4.0,
+        "billable_hours": 7.6
+    },
+    {
+        "employee_id": "EMP00816",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.0,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP01887",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.6,
+        "billable_hours": 3.2
+    },
+    {
+        "employee_id": "EMP00270",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.3,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00996",
+        "timesheet_hours": 7.0,
+        "project_hours": 4.4,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00202",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP00162",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.8,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01580",
+        "timesheet_hours": 8.2,
+        "project_hours": 7.7,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP00730",
+        "timesheet_hours": 7.8,
+        "project_hours": 6.9,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP00402",
+        "timesheet_hours": 6.9,
+        "project_hours": 6.4,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00703",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.0,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01501",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.1,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01846",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01796",
+        "timesheet_hours": 6.6,
+        "project_hours": 5.4,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP01130",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.9,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP00566",
+        "timesheet_hours": 8.1,
+        "project_hours": 7.2,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP01414",
+        "timesheet_hours": 6.7,
+        "project_hours": 4.0,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01022",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.8,
+        "billable_hours": 5.5
+    },
+    {
+        "employee_id": "EMP01026",
+        "timesheet_hours": 8.2,
+        "project_hours": 4.8,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01412",
+        "timesheet_hours": 6.1,
+        "project_hours": 7.8,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP01896",
+        "timesheet_hours": 6.7,
+        "project_hours": 5.4,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP01586",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.0,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01105",
+        "timesheet_hours": 8.1,
+        "project_hours": 4.3,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00206",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.5,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP00035",
+        "timesheet_hours": 8.3,
+        "project_hours": 4.3,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00776",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.8,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00509",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.4,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01452",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.2,
+        "billable_hours": 4.4
+    },
+    {
+        "employee_id": "EMP01479",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.8,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01971",
+        "timesheet_hours": 6.4,
+        "project_hours": 5.4,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01391",
+        "timesheet_hours": 6.1,
+        "project_hours": 5.8,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP00092",
+        "timesheet_hours": 8.2,
+        "project_hours": 6.8,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01364",
+        "timesheet_hours": 9.0,
+        "project_hours": 5.7,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00898",
+        "timesheet_hours": 6.5,
+        "project_hours": 4.1,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP00565",
+        "timesheet_hours": 8.0,
+        "project_hours": 6.3,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP01370",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.9,
+        "billable_hours": 7.9
+    },
+    {
+        "employee_id": "EMP00777",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.2,
+        "billable_hours": 2.9
+    },
+    {
+        "employee_id": "EMP00242",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.3,
+        "billable_hours": 3.8
+    },
+    {
+        "employee_id": "EMP00014",
+        "timesheet_hours": 7.1,
+        "project_hours": 4.6,
+        "billable_hours": 3.3
+    },
+    {
+        "employee_id": "EMP00316",
+        "timesheet_hours": 7.0,
+        "project_hours": 7.6,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00601",
+        "timesheet_hours": 6.2,
+        "project_hours": 6.4,
+        "billable_hours": 5.9
+    },
+    {
+        "employee_id": "EMP00388",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.4,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01298",
+        "timesheet_hours": 8.6,
+        "project_hours": 7.7,
+        "billable_hours": 7.0
+    },
+    {
+        "employee_id": "EMP00167",
+        "timesheet_hours": 7.5,
+        "project_hours": 7.5,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP00841",
+        "timesheet_hours": 6.5,
+        "project_hours": 6.8,
+        "billable_hours": 5.8
+    },
+    {
+        "employee_id": "EMP00021",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.0,
+        "billable_hours": 2.5
+    },
+    {
+        "employee_id": "EMP00647",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.3,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01843",
+        "timesheet_hours": 7.5,
+        "project_hours": 6.6,
+        "billable_hours": 4.9
+    },
+    {
+        "employee_id": "EMP01509",
+        "timesheet_hours": 8.2,
+        "project_hours": 5.3,
+        "billable_hours": 6.2
+    },
+    {
+        "employee_id": "EMP01155",
+        "timesheet_hours": 6.5,
+        "project_hours": 7.2,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP01529",
+        "timesheet_hours": 8.4,
+        "project_hours": 4.8,
+        "billable_hours": 4.8
+    },
+    {
+        "employee_id": "EMP00832",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.7,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP01268",
+        "timesheet_hours": 8.8,
+        "project_hours": 7.4,
+        "billable_hours": 3.4
+    },
+    {
+        "employee_id": "EMP01591",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.8,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP01900",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.7,
+        "billable_hours": 5.7
+    },
+    {
+        "employee_id": "EMP00563",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.6,
+        "billable_hours": 3.6
+    },
+    {
+        "employee_id": "EMP01952",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.0,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP00687",
+        "timesheet_hours": 6.6,
+        "project_hours": 4.3,
+        "billable_hours": 6.9
+    },
+    {
+        "employee_id": "EMP00958",
+        "timesheet_hours": 6.0,
+        "project_hours": 4.2,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP00190",
+        "timesheet_hours": 6.5,
+        "project_hours": 7.7,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01807",
+        "timesheet_hours": 8.0,
+        "project_hours": 7.2,
+        "billable_hours": 7.3
+    },
+    {
+        "employee_id": "EMP00976",
+        "timesheet_hours": 8.7,
+        "project_hours": 6.2,
+        "billable_hours": 7.7
+    },
+    {
+        "employee_id": "EMP00700",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.3,
+        "billable_hours": 3.5
+    },
+    {
+        "employee_id": "EMP01500",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.2,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP01706",
+        "timesheet_hours": 7.2,
+        "project_hours": 4.5,
+        "billable_hours": 6.1
+    },
+    {
+        "employee_id": "EMP00511",
+        "timesheet_hours": 7.8,
+        "project_hours": 5.8,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01083",
+        "timesheet_hours": 7.2,
+        "project_hours": 7.0,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00475",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.6,
+        "billable_hours": 4.0
+    },
+    {
+        "employee_id": "EMP01585",
+        "timesheet_hours": 8.3,
+        "project_hours": 5.6,
+        "billable_hours": 4.1
+    },
+    {
+        "employee_id": "EMP00857",
+        "timesheet_hours": 6.4,
+        "project_hours": 6.2,
+        "billable_hours": 6.3
+    },
+    {
+        "employee_id": "EMP00748",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.2,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP00253",
+        "timesheet_hours": 7.6,
+        "project_hours": 5.1,
+        "billable_hours": 5.3
+    },
+    {
+        "employee_id": "EMP00022",
+        "timesheet_hours": 6.8,
+        "project_hours": 4.5,
+        "billable_hours": 6.6
+    },
+    {
+        "employee_id": "EMP01338",
+        "timesheet_hours": 7.1,
+        "project_hours": 6.5,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00460",
+        "timesheet_hours": 6.2,
+        "project_hours": 4.3,
+        "billable_hours": 5.1
+    },
+    {
+        "employee_id": "EMP01185",
+        "timesheet_hours": 9.0,
+        "project_hours": 7.5,
+        "billable_hours": 3.0
+    },
+    {
+        "employee_id": "EMP00277",
+        "timesheet_hours": 6.5,
+        "project_hours": 5.3,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00956",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.1,
+        "billable_hours": 4.5
+    },
+    {
+        "employee_id": "EMP01216",
+        "timesheet_hours": 7.6,
+        "project_hours": 4.6,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP00386",
+        "timesheet_hours": 7.1,
+        "project_hours": 5.6,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00806",
+        "timesheet_hours": 8.8,
+        "project_hours": 5.5,
+        "billable_hours": 3.9
+    },
+    {
+        "employee_id": "EMP01438",
+        "timesheet_hours": 6.5,
+        "project_hours": 7.5,
+        "billable_hours": 7.2
+    },
+    {
+        "employee_id": "EMP01516",
+        "timesheet_hours": 6.7,
+        "project_hours": 4.5,
+        "billable_hours": 5.2
+    },
+    {
+        "employee_id": "EMP00344",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.8,
+        "billable_hours": 2.3
+    },
+    {
+        "employee_id": "EMP00770",
+        "timesheet_hours": 7.9,
+        "project_hours": 5.5,
+        "billable_hours": 4.2
+    },
+    {
+        "employee_id": "EMP01333",
+        "timesheet_hours": 7.4,
+        "project_hours": 4.6,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01686",
+        "timesheet_hours": 8.0,
+        "project_hours": 4.2,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP00131",
+        "timesheet_hours": 7.3,
+        "project_hours": 4.4,
+        "billable_hours": 6.8
+    },
+    {
+        "employee_id": "EMP01688",
+        "timesheet_hours": 8.4,
+        "project_hours": 5.2,
+        "billable_hours": 4.7
+    },
+    {
+        "employee_id": "EMP00872",
+        "timesheet_hours": 8.4,
+        "project_hours": 6.6,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01124",
+        "timesheet_hours": 7.2,
+        "project_hours": 6.3,
+        "billable_hours": 7.1
+    },
+    {
+        "employee_id": "EMP01397",
+        "timesheet_hours": 6.4,
+        "project_hours": 4.4,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP00088",
+        "timesheet_hours": 6.8,
+        "project_hours": 6.6,
+        "billable_hours": 4.3
+    },
+    {
+        "employee_id": "EMP01483",
+        "timesheet_hours": 6.3,
+        "project_hours": 6.3,
+        "billable_hours": 4.6
+    },
+    {
+        "employee_id": "EMP00331",
+        "timesheet_hours": 7.3,
+        "project_hours": 5.9,
+        "billable_hours": 2.6
+    },
+    {
+        "employee_id": "EMP01239",
+        "timesheet_hours": 8.7,
+        "project_hours": 4.0,
+        "billable_hours": 3.1
+    },
+    {
+        "employee_id": "EMP00467",
+        "timesheet_hours": 6.9,
+        "project_hours": 4.3,
+        "billable_hours": 2.1
+    },
+    {
+        "employee_id": "EMP00122",
+        "timesheet_hours": 6.4,
+        "project_hours": 7.5,
+        "billable_hours": 7.8
+    },
+    {
+        "employee_id": "EMP01639",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.1,
+        "billable_hours": 2.8
+    },
+    {
+        "employee_id": "EMP01045",
+        "timesheet_hours": 8.3,
+        "project_hours": 7.2,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01725",
+        "timesheet_hours": 6.3,
+        "project_hours": 4.2,
+        "billable_hours": 5.4
+    },
+    {
+        "employee_id": "EMP01096",
+        "timesheet_hours": 7.6,
+        "project_hours": 7.4,
+        "billable_hours": 7.5
+    },
+    {
+        "employee_id": "EMP01131",
+        "timesheet_hours": 8.6,
+        "project_hours": 6.0,
+        "billable_hours": 7.4
+    },
+    {
+        "employee_id": "EMP01295",
+        "timesheet_hours": 7.2,
+        "project_hours": 5.1,
+        "billable_hours": 2.7
+    },
+    {
+        "employee_id": "EMP00861",
+        "timesheet_hours": 8.6,
+        "project_hours": 4.2,
+        "billable_hours": 3.7
+    },
+    {
+        "employee_id": "EMP01460",
+        "timesheet_hours": 8.6,
+        "project_hours": 5.7,
+        "billable_hours": 5.0
+    },
+    {
+        "employee_id": "EMP01127",
+        "timesheet_hours": 6.6,
+        "project_hours": 6.3,
+        "billable_hours": 2.9
+    }
+]

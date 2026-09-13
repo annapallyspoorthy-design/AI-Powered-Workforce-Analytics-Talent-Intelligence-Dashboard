@@ -1,0 +1,6 @@
+{
+  "name": "Workforce Analytics & Talent Intelligence",
+  "description": "AI Powered Enterprise Workforce Analytics & Talent Intelligence Dashboard for modern HR and Talent teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

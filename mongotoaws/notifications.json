@@ -1,0 +1,7002 @@
+[
+    {
+        "employee_id": "EMP00441",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-08",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00574",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-08",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00947",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-04",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00998",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-22",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00504",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-14",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00606",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-30",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01717",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01164",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-25",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01787",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-29",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00847",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00004",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01287",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01223",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-18",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00468",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00322",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-10",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00006",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-12",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00223",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-17",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01375",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-15",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00548",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-19",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00229",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-11",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00040",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-28",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00543",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-17",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00243",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-24",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00899",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-21",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01134",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-25",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01449",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-13",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01869",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-17",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00843",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-04",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01419",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01654",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-01",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01970",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-05",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00662",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-24",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01211",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-07",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00315",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-16",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00692",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-18",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01504",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-19",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00425",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-24",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00595",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01964",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-26",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00623",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-14",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01171",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-06",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01044",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-04",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00228",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01118",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-20",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01332",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-16",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01316",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-15",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00067",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-06",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00025",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00145",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-15",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00537",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-20",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00812",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-03",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01467",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-10",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00086",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-08",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01661",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01646",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-30",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01805",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-24",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01818",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01577",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01145",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-05",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00363",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-04",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01612",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01866",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-02",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01027",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01031",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-10",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01304",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01356",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-16",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01731",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-02",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00666",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-24",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00365",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-28",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00078",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00028",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-16",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01437",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-11",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00526",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01835",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-29",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00056",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-02",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00639",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00303",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00719",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-25",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00625",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-22",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00008",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00804",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-08",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01050",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-27",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00337",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00048",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-27",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01764",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-28",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00107",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-18",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00350",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-21",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01080",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-05",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00239",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00214",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-27",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01776",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-29",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01139",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-21",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00794",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-03",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01587",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-05",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01583",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-22",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01672",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-05",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00524",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-28",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00233",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-26",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00645",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-26",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01508",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-12",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00534",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-25",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01942",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00604",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-07",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01330",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-08",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01075",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-11",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01305",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-15",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00061",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01264",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-30",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00093",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00667",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-26",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00281",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-23",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01114",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00360",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-01",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01129",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-18",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01170",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-24",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00848",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-22",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01522",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-07",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00111",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00043",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-05",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00126",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-19",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00205",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-01",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00053",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-09",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00546",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-18",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00069",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-26",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01741",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-01",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01548",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-03",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00184",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00138",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-24",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00900",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-28",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00797",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-18",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00133",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-20",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00081",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-20",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01987",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-29",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01541",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00542",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-21",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01669",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-23",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00984",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-30",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00166",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-07",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00249",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-01",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00447",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-25",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01515",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-30",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00859",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-17",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01212",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-29",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00098",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01974",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-27",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00738",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-29",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01256",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-16",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00103",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-10",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00435",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-25",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00075",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01792",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01235",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-22",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00919",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01712",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-31",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01671",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-16",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01621",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-06",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00763",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-26",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00990",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00389",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-30",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00236",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-15",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01507",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-15",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00268",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-19",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01188",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00118",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-04",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01607",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-23",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00674",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00250",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-21",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01453",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01995",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-06",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00095",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00034",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-16",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01464",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-06",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01668",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00449",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-17",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00717",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-19",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01810",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-16",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01518",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-06",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00001",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-02",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01376",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-31",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01102",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-07",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01109",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-13",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01227",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00083",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01289",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-24",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00677",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-07",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01921",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-09",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01047",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-08",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00771",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-01",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01947",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-17",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01281",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01581",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-27",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01489",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-30",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00405",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-27",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01728",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-04",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01299",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-03",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01341",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-18",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00105",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00689",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-30",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01306",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-12",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00827",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-21",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00063",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-10",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00853",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-21",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01354",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-04",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00224",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-04",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00146",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-10",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01089",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-20",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00374",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-14",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01421",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01143",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01827",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-19",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01495",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-10",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01602",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-20",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01271",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-03",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00010",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00450",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00709",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-01",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00256",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00883",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-22",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00390",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-08",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00909",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-24",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00925",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01704",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-20",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01233",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-31",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00461",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-02",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01270",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-13",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01760",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-25",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01169",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-30",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00959",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-20",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00502",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-04",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00740",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-15",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01850",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-10",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00869",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-13",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00732",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-22",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00540",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01202",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-23",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00698",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-22",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01393",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-17",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01377",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-21",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01146",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01032",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-03",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00373",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-10",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00668",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-12",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01526",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00358",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-05",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00968",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-13",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00784",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00736",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-13",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01036",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-15",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00971",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-05",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01525",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-21",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01487",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-28",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01524",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-28",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01491",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-01",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01643",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-11",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01253",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-25",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01694",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-15",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01750",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-16",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01237",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-31",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00886",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-02",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00080",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-08",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01173",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-24",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00815",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-26",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01286",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-06",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00672",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-08",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01532",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-09",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00058",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-14",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00134",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01141",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-17",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00934",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-07",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01685",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-08",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00824",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-07",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01215",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-01",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00505",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01775",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-25",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00348",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-09",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00387",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-01",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01025",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-03",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00895",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-14",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00829",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-21",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01893",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-18",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00476",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01471",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01448",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-04",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01582",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-19",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00653",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-15",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00173",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-31",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01150",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-30",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00039",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-10",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00714",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00091",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-19",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01937",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-13",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01206",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00876",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01352",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-10",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01890",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-18",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01094",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01156",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-23",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01782",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-21",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01959",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-21",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00500",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-01",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00339",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-08",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01189",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-08",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00029",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-22",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01218",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-05",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01400",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-06",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01821",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00946",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-05",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00170",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01405",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-05",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01198",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-25",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01254",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-12",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01614",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-26",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00913",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-31",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00492",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-10",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00954",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-10",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01098",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-21",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01033",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00588",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-12",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00751",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-10",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00658",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-28",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00235",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-07",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00733",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-05",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01989",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-22",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01633",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-17",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01157",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-31",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01470",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-07",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01425",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01628",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-29",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00935",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01210",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-07",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01066",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-16",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00109",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-26",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01543",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-29",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00569",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01168",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-29",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01175",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00891",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00948",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-25",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01049",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-16",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01353",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-19",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01778",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-22",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01447",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-21",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00885",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-08",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01673",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-16",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00851",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-19",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00735",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-24",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00718",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-25",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00455",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-25",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00265",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00076",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-22",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01658",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-14",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00445",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-07",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00396",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-07",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00177",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-22",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01043",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01736",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-07",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01402",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-20",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01381",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-12",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00596",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-13",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00062",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01297",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-21",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00873",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-01",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01490",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-29",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01879",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-19",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00279",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-21",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00037",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-03",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01976",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-05",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00663",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-31",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01954",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-02",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01445",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-25",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00978",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-04",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01572",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00739",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-17",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00192",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00920",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-15",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00457",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00676",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-26",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00761",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-10",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01808",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-22",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01603",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-23",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00729",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-14",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00413",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01099",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-07",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00826",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-17",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01640",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-07",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00617",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-13",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00115",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-04",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00418",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-25",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01911",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-05",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00970",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00605",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01919",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00090",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-29",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00849",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01520",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01918",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-31",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00754",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-01",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00499",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-26",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01277",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-23",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01326",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00012",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-14",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00397",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-18",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00285",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-11",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01067",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01192",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-02",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01745",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-23",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00691",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-18",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01753",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01876",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-22",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00690",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-12",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00852",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00160",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-07",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00896",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-09",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01576",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-20",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00258",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00336",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-26",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01880",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-01",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01040",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-06",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00516",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-07",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01349",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-10",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01016",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-18",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00769",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-05",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01747",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-04",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00762",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-01",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01247",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-27",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01204",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-14",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01468",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-13",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01984",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-17",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00522",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-27",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00023",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-13",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00357",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01278",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-10",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01313",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01683",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-04",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00341",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00432",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-07",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00474",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-08",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00218",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-10",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00912",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-17",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01228",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-10",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01597",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-12",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01012",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-22",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01950",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-12",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00094",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-28",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01009",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-28",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01071",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01093",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-10",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01915",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01309",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-24",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00697",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-05",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01828",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-04",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00997",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00154",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01100",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-13",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01719",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01998",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00790",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-15",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00581",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-30",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00704",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-29",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01213",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-27",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01296",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-11",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01666",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-31",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01261",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-20",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00488",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-21",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00560",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-03",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01142",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-13",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01120",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-27",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00802",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00513",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-29",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00634",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-06",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01922",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01788",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01546",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-12",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01151",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00791",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00117",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-02",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00741",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-05",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01691",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-14",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01082",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-15",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00831",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00120",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-18",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00657",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01908",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00636",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00370",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-19",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00269",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00656",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-19",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00936",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-27",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00823",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-16",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00867",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-01",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00047",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-06",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01374",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01709",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-31",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00992",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00877",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00774",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-11",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01220",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-07",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP02000",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00005",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-14",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01004",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-14",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01724",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-29",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00264",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-27",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01570",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-24",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01831",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-03",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00444",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-29",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01003",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-21",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01078",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-11",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00838",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-09",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01791",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-22",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00305",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-15",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01366",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01558",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-17",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00314",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00150",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-22",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01149",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01214",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00575",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-08",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00051",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-13",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01553",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-27",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00727",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00834",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01378",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-13",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01116",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-28",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01167",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00471",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-11",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00972",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00654",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-08",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00400",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00512",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-26",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00321",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00020",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-24",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00685",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-16",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00036",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-12",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00903",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-07",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01779",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-23",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00828",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-14",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01854",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-26",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00408",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00921",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-10",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00538",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00759",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-24",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01905",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01063",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-27",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01200",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-19",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00246",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-26",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01417",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-14",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01128",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00785",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-13",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01743",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00490",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-13",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00155",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00962",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-23",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00854",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01312",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-10",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00626",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00686",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-19",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01562",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-10",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00570",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-29",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01909",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-01",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00018",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-26",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00128",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-24",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01347",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01280",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-25",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01969",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-31",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00928",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-22",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00981",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-22",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01965",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-05",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00191",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01140",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00993",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-21",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01956",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-22",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01657",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00607",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-17",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00181",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-11",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00302",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-28",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00497",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-11",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01721",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-04",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01710",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01888",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01992",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00518",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-06",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01985",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-02",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01070",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-13",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00477",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-28",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00158",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01244",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01196",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-06",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00017",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01536",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-29",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01073",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-23",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01972",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-07",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00547",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-29",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01540",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-16",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00659",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-22",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01626",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-16",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01020",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-12",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01663",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-12",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01505",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-08",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00960",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-11",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01882",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00284",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-30",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00798",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01627",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-07",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00226",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-22",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00027",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-07",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01771",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00438",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-19",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01949",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-11",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01389",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-11",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00230",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-13",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00038",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00750",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-07",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01046",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01399",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-01",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00470",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-07",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01693",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01968",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-20",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00688",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-22",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01844",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-17",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00640",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-16",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01713",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-24",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01219",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-14",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01159",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-26",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01416",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01528",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-21",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01656",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01301",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-11",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01823",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-16",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00801",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01604",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-20",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00161",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-07",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00957",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-22",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01187",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-02",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00822",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-19",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01682",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-11",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00878",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-19",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00914",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-26",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00153",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01871",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01777",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-28",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00510",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-03",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01136",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01251",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01684",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00104",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-05",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01446",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-02",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01444",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-12",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00587",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-27",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01769",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01144",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-11",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00054",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-02",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00152",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-13",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00404",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-05",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01943",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-06",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00208",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-27",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01895",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-08",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01123",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-21",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01891",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-13",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00009",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-22",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01015",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-07",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01907",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01061",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-02",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00453",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-26",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00254",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-28",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01328",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-16",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00897",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-12",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01734",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-25",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00881",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-30",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01596",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-14",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01889",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00624",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-09",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00346",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-01",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01703",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-20",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00263",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-28",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01635",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-14",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01322",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-28",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01439",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-26",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00151",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00473",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-30",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00641",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-21",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01983",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-16",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01883",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-05",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00551",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-25",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01780",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00929",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-11",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00489",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-25",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01812",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-10",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01172",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-20",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00147",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-30",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01705",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-29",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01929",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-21",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00403",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00955",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01878",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-05",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00660",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01373",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-27",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00464",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01350",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-11",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00187",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-23",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01148",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-04",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01225",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-20",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00609",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-26",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00144",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-23",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00752",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-05",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01535",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-17",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00982",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-23",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00198",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-16",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01634",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-21",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00884",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-28",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00280",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-08",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00294",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01824",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-22",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00401",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-21",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00123",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-10",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01208",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-11",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00203",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-22",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01463",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00836",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-20",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00247",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01440",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-10",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01754",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-02",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01902",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-04",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01708",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-28",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01881",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-08",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01154",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01662",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-25",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01427",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-23",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00385",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-13",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01759",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-16",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00855",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-15",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01590",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-18",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00220",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-26",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00642",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-02",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00002",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-25",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00113",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-17",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00699",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-06",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01916",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-26",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00952",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-22",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01649",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-07",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01637",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-01",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01886",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01411",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-22",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01410",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-12",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01534",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-04",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01292",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01809",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-01",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00442",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01521",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01137",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-05",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01716",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-04",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01257",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-13",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01864",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-18",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01632",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-28",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01696",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-21",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01398",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-21",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00664",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-13",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01836",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-14",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01258",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-23",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01774",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-17",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01701",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-15",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00318",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00649",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-29",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01435",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-21",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01480",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-24",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00710",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-15",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01383",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-18",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01283",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-18",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00973",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-03",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00628",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-10",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00633",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-15",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01307",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-14",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01401",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-20",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01409",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-12",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01249",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-07",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01953",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-14",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01255",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-07",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01497",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-28",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01372",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-13",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01530",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-06",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01664",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-25",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01355",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-16",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01926",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01901",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01644",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-13",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01849",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-05",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00796",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-15",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00646",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-30",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01013",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-09",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01840",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-17",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00557",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-20",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00682",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-24",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00578",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-23",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01110",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-17",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01267",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-21",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01723",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-29",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01184",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-09",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00525",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01060",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-27",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00541",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-31",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01195",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01679",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-23",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00749",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-01",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01852",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01431",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-25",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00485",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-24",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01758",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-22",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00096",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-12",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01021",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-26",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00564",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-08",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01265",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-13",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00743",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00864",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-18",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01599",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-22",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01715",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-20",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01485",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00892",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-27",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01578",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-06",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01039",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-26",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00207",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-05",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00393",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-18",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00795",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00871",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-14",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00398",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-19",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00767",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-02",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01842",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-05",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01242",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-08",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01029",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-23",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01793",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-14",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00643",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-18",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01892",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00613",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-27",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01763",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-20",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00961",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-27",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01571",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-02",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00726",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-30",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00684",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00099",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-17",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00805",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-20",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01752",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-19",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01598",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-07",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00407",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-11",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00503",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-03",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01072",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-06",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01057",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-18",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00930",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-12",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00780",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-15",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00201",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-10",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00135",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-17",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01052",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00041",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-18",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01018",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-18",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00231",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-24",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01514",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-27",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01797",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-28",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00379",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-21",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00289",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00419",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-30",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01699",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-27",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00392",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00593",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-20",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01523",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-10",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01163",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-01",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01087",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-13",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01496",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-25",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00648",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-03-08",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01153",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-05",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01368",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-07",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00521",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-28",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01863",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-16",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00065",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-27",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01837",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-24",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00015",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-01-25",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01181",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-03",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01065",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-01",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00493",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-11",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00380",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-02",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00188",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-22",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00764",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-15",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00217",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-05",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00792",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-06",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01077",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-27",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00879",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-21",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00338",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-01",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01773",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-06",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00720",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-29",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01749",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-24",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00296",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01726",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-28",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01017",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-29",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01276",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-02",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01751",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-13",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01486",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-24",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00456",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-15",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01997",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-25",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00816",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-17",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01887",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-27",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00270",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-28",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00996",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-26",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00202",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-29",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00162",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-03",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01580",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-09",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00730",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-03",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00402",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-28",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00703",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-12",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01501",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-14",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01846",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-22",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01796",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-31",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01130",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-23",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00566",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-06",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01414",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-05",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01022",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-24",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01026",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01412",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-03",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01896",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-22",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01586",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-21",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01105",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-01",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00206",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-01",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP00035",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-16",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00776",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-01",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00509",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-16",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01452",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-08",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01479",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01971",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-06-16",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01391",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-06-09",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00092",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-02",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01364",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-03",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00898",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-15",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00565",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-21",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01370",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00777",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00242",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-06-07",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00014",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-30",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00316",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-06-12",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00601",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-11-08",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00388",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-06",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01298",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-04-07",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00167",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-08",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00841",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-14",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00021",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-08-14",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00647",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01843",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-18",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01509",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-24",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01155",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-07-04",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01529",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-06",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00832",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-11",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP01268",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-27",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01591",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-15",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01900",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-26",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00563",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-19",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01952",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-07",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00687",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-30",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00958",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-13",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00190",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-29",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP01807",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-29",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00976",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-09",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00700",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-10-12",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01500",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-05-06",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01706",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-10-16",
+        "birthday_month": 12
+    },
+    {
+        "employee_id": "EMP00511",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-07-09",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01083",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-24",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00475",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-11-17",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01585",
+        "manager_alert": "Late",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-07-03",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP00857",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-29",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00748",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-26",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00253",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-02-25",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00022",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-04-12",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01338",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-02-26",
+        "birthday_month": 3
+    },
+    {
+        "employee_id": "EMP00460",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-04-20",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP01185",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-12-17",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP00277",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-02-19",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00956",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01216",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-19",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP00386",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-11-05",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP00806",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-11",
+        "birthday_month": 8
+    },
+    {
+        "employee_id": "EMP01438",
+        "manager_alert": "No Alert",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-09-03",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01516",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-10-13",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP00344",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-09-24",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00770",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-08-30",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01333",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-14",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01686",
+        "manager_alert": "No Alert",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-03-16",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00131",
+        "manager_alert": "Leave",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-12-24",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01688",
+        "manager_alert": "Late",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-02-01",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00872",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-03-13",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01124",
+        "manager_alert": "Leave",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-01-19",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01397",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-09-16",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00088",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-01-28",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01483",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-12-18",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP00331",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-09-30",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP01239",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-08-13",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP00467",
+        "manager_alert": "Performance",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-03-09",
+        "birthday_month": 9
+    },
+    {
+        "employee_id": "EMP00122",
+        "manager_alert": "Performance",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-05",
+        "birthday_month": 2
+    },
+    {
+        "employee_id": "EMP01639",
+        "manager_alert": "Leave",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-12-02",
+        "birthday_month": 11
+    },
+    {
+        "employee_id": "EMP01045",
+        "manager_alert": "Performance",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-10-30",
+        "birthday_month": 7
+    },
+    {
+        "employee_id": "EMP01725",
+        "manager_alert": "Performance",
+        "hr_alert": "Compliance",
+        "work_anniversary": "2026-04-19",
+        "birthday_month": 4
+    },
+    {
+        "employee_id": "EMP01096",
+        "manager_alert": "Late",
+        "hr_alert": "Payroll",
+        "work_anniversary": "2026-05-21",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01131",
+        "manager_alert": "Leave",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-07-26",
+        "birthday_month": 6
+    },
+    {
+        "employee_id": "EMP01295",
+        "manager_alert": "Late",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-05-16",
+        "birthday_month": 10
+    },
+    {
+        "employee_id": "EMP00861",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-08-31",
+        "birthday_month": 5
+    },
+    {
+        "employee_id": "EMP01460",
+        "manager_alert": "No Alert",
+        "hr_alert": "No Alert",
+        "work_anniversary": "2026-11-02",
+        "birthday_month": 1
+    },
+    {
+        "employee_id": "EMP01127",
+        "manager_alert": "No Alert",
+        "hr_alert": "Attrition",
+        "work_anniversary": "2026-01-14",
+        "birthday_month": 2
+    }
+]
